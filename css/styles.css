@@ -1,0 +1,116 @@
+body
+{	font-family: Calibri;
+	font-size: 14px;
+}
+
+h1
+{
+	font-size: 36px;
+	color: #000077;
+}
+
+h2
+{
+	font-size: 24pt;
+	color: #000077;
+}
+
+h3
+{
+	font-size: 16pt;
+	color: #000077;
+}
+
+.content
+{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.red{border: 2px solid #770000;}
+
+p{margin-right:200px;}
+
+.center{text-align: center;}
+
+li{list-style-type:circle;}
+
+i {margin-left:5px;}
+
+#navbar ul
+{
+	list-style:none;
+	float:left;
+	margin:0;
+	background-color: #333;
+	width:92.5%;
+	padding-left:100px;
+	color:white;
+}
+
+#navbar ul a
+{
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#navbar ul li
+{
+	position:relative;
+	float:left;
+	list-style-type:none;
+}
+
+#navbar ul li.active
+{
+	background:#777;
+}
+
+#navbar ul li:hover
+{
+	background:#777;
+}
+
+#navbar ul ul a:hover
+{
+	background-color:#777;
+	color:white;
+}
+
+#navbar ul ul
+{
+	display:none;
+	position:absolute;
+	top:100%;
+	padding:0;
+}
+
+#navbar ul ul li
+{
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+#navbar ul ul a
+{
+	background-color:#eee;
+	width:150px;
+	color:#000;
+	text-align:left;
+	font-size:14px;
+}
+
+#navbar ul li:hover > ul
+{
+	display:block;
+}
+
+.sticky {
+	position: fixed;
+	top: 0;
+	width:99%;
+	margin-right:100px;
+}
