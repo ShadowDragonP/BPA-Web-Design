@@ -1,0 +1,3 @@
+Put all pages in this folder. Do not make any more folders in this directory.
+
+Name each php file in lowercase, with dashes between each word.
