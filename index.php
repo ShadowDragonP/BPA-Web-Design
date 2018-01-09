@@ -8,7 +8,43 @@
 
 <body>
 	<?php include("includes/header.html");?>
-	<?php include("includes/nav.html");?>
+		<nav id="navbar">
+		<ul>
+			<li><a href="../">Home</a></li>
+			<li><a>Service Learning <i class="fa fa-caret-down"></i></a>
+				<ul>
+					<li><a href="pages/community-service-award.html">Community Service Award</a></li>
+					<li><a href="pages/environmental-action-awareness-award.html">Environmental Action/Awareness Award</a></li>
+					<li><a href="pages/safety-awareness-award.html">Safety Awareness Award</a></li>
+					<li><a href="pages/service-learning-individual-award.html">Service Learning Individual Award</a></li>
+					<li><a href="pages/special-olympics-award.html">Special Olympics Award</a></li>
+				</ul>
+			</li>
+			<li><a>Special Recognition <i class="fa fa-caret-down"></i></a></a>
+				<ul>
+					<li><a href="pages/bpa-marketing-and-public.html">BPA Marketing and Public</a></li>
+					<li><a href="pages/bpa-marketing-and-public-relations-award.html">BPA Marketing and Public Relations Award</a></li>
+					<li><a href="pages/bpa-merit-scholar-award.html">BPA Merit Scholar Award</a></li>
+					<li><a href="pages/chapter-activities-award-of-excellence.html">Chapter Activities Award of Excellence</a></li>
+					<li><a href="pages/recruiter-of-the-year-award.html">Recruiter of the Year Award</a></li>
+					<li><a href="pages/membership-explosion-award.html">Membership Explosion Award</a></li>
+					<li><a href="pages/social-media-award.html">Social Media Award</a></li>
+					<li><a href="pages/the-professional-cup-award.html">The Professional Cup Award</a></li>
+				</ul>
+			</li>
+			<li><a>Professional <i class="fa fa-caret-down"></i></a></a>
+				<ul>
+					<li><a href="pages/advisor-of-the-year-award.html">Advisor of the Year Award</a></li>
+					<li><a href="pages/emerging-advisor-of-the-year-award.html">Emerging Advisor of the Year Award</a></li>
+					<li><a href="pages/emerging-professional-of-the-year-award.html">Emerging Professional of the Year Award</a></li>
+					<li><a href="pages/hall-of-fame-award.html">Hall of Fame Award</a></li>
+					<li><a href="pages/outstanding-service-award.html">Outstanding Service Award</a></li>
+					<li><a href="pages/student-of-the-year-award.html">Student of the Year Award</a></li>
+				</ul>
+			</li>
+		</ul>
+	</nav>
+
 	<br>
 	<br>
 	<br>
