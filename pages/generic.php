@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<?php include("includes/index-references.html");?>
+	<?php include("../includes/generic-references.html");?>
 	
 	<title>Home | BPA Cares Awards</title>
 </head>
 
 <body>
-	<?php include("includes/header.html");?>
-	<?php include("includes/nav.html");?>
+	<?php include("../includes/header.html");?>
+	<?php include("../includes/nav.html");?>
 	<br>
 	<br>
 	<br>
@@ -54,7 +54,7 @@
 			<li>Student of the Year Award</li>
 		</ul>
 	</div>
-	<?php include("includes/footer.html");?>
-	<script type="text/javascript" src="js/sticky.js"></script>
+	<?php include("../includes/footer.html");?>
+	<script type="text/javascript" src="../js/sticky.js"></script>
 </body>
 </html>
