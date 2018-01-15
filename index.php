@@ -10,7 +10,7 @@
 	<?php include("includes/header.html");?>
 		<nav id="navbar">
 		<ul>
-			<li><a href="../">Home</a></li>
+			<li><a href="">Home</a></li>
 			<li><a>Service Learning <i class="fa fa-caret-down"></i></a>
 				<ul>
 					<li><a href="pages/community-service-award.php">Community Service Award</a></li>

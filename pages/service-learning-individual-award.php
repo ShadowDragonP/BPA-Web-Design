@@ -4,7 +4,7 @@
 	<?php $root = 'C:/xampp/htdocs/BPA-Web-Design-2018/';?>
 	<?php include($root . "/includes/generic-references.html");?>
 	
-	<title>Community Service Award | BPA Cares Awards</title>
+	<title>Service Learning Individual Award | BPA Cares Awards</title>
 </head>
 
 <body>
@@ -16,8 +16,8 @@
 	<hr class="red">
 	<div class="content">
 		<h4 style="color:#770000"><em>from </em>SERVICE LEARNING</h4>
-		<h2>Community Service Award</h2>
-		<p>The Community Service Award encourages local chapters and chapter members to become involved in activities such as community betterment, school improvement, and election-year activities. Chapters are recognized for their involvement in engaged citizenry.</p>
+		<h2>Service Learning Individual Award</h2>
+		<p>The Service Learning Individual Award recognizes local members involved with Service Learning.<p>
 		<p>Members in the Middle Level, Post-Secondary and Secondary Divisions who have completed at minimum 100 service hours or contributed at minimum $500.00 to a service organization are eligible for this award.</p>
 		<br>
 		<hr>

@@ -4,7 +4,7 @@
 	<?php $root = 'C:/xampp/htdocs/BPA-Web-Design-2018/';?>
 	<?php include($root . "/includes/generic-references.html");?>
 	
-	<title>Community Service Award | BPA Cares Awards</title>
+	<title>Environmental Action/Awareness Award | BPA Cares Awards</title>
 </head>
 
 <body>
@@ -16,19 +16,18 @@
 	<hr class="red">
 	<div class="content">
 		<h4 style="color:#770000"><em>from </em>SERVICE LEARNING</h4>
-		<h2>Community Service Award</h2>
-		<p>The Community Service Award encourages local chapters and chapter members to become involved in activities such as community betterment, school improvement, and election-year activities. Chapters are recognized for their involvement in engaged citizenry.</p>
+		<h2>Environmental Action/Awareness Award</h2>
+		<p>The Environmental Action/Awareness Award encourages all levels and divisions of BPA to participate in activities promoting awareness to current environmental issues and the prevention of further damage to the environment.<p>
 		<p>Members in the Middle Level, Post-Secondary and Secondary Divisions who have completed at minimum 100 service hours or contributed at minimum $500.00 to a service organization are eligible for this award.</p>
 		<br>
 		<hr>
 		<h3>Activities</h3>
-		<p>Activities include but are not limited to volunteering, training, or contribution to:</p>
+		<p>Activities include but are not limited to  olunteering, training, or contribution to:</p>
 		<ul>
-			<li>Blood drives</li>
-			<li>Clothing drives</li>
-			<li>Food drives</li>
-			<li>Disaster relief assistance</li>
-			<li>Local community shelters</li>
+			<li>Contributing to paper recycling projcts</li>
+			<li>School-based composting systems</li>
+			<li>Solar panel installations</li>
+			<li>School-wide energy audits</li>
 		</ul>
 		<br>
 		<hr>
