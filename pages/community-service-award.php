@@ -43,7 +43,7 @@
 		<hr>
 		<h3>Applications</h3>
 		<ul>
-			<li>Applications are due April 1 and must be submitted using the online application and cannot be turned in via e-mail or mail.</li>
+			<li>Applications are due April 1 and must be submitted using the online application. Applications cannot be turned in via e-mail or mail.</li>
 		</ul>
 	</div>
 	<?php include($root . "/includes/footer.html");?>
