@@ -22,7 +22,7 @@
 		<br>
 		<hr>
 		<h3>Requirements</h3>
-		<p>The nominator must submit the following information about the nominee to be eligiple for the award.</p>
+		<p>The nominator must submit the following information about the nominee to be eligible for the award.</p>
 		<ul>
 			<li>Nomination Form</li>
 			<li>Narrative review of nominee’s supportive contributions to BPA</li>

@@ -16,8 +16,8 @@
 	<hr class="red">
 	<div class="content">
 		<h4 style="color:#770000"><em>from </em>SERVICE LEARNING</h4>
-		<h2>Service Learning Individual Award</h2>
-		<p>The Service Learning Individual Award recognizes local members involved with Special Olympics.<p>
+		<h2>Special Olympics Award</h2>
+		<p>The Special Olympics Award recognizes local members involved with Special Olympics.<p>
 		<p>Members in the Middle Level, Post-Secondary and Secondary Divisions who have completed at minimum 100 service hours or contributed at minimum $500.00 to a service organization are eligible for this award.</p>
 		<br>
 		<hr>

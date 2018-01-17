@@ -4,7 +4,7 @@
 	<?php $root = 'C:/xampp/htdocs/BPA-Web-Design-2018/';?>
 	<?php include($root . "/includes/generic-references.html");?>
 	
-	<title>Advisor of the Year Award | BPA Cares Awards</title>
+	<title>Student of the Year Award | BPA Cares Awards</title>
 </head>
 
 <body>
@@ -16,22 +16,20 @@
 	<hr class="red">
 	<div class="content">
 		<h4 style="color:#770000"><em>from </em>PROFESSIONAL</h4>
-		<h2>Advisor of the Year Award</h2>
-		<p>The Advisor of the Year Award recognizes an individual who has made significant contributions as a local chapter advisor to Business Professionals of America.</p>
-		<p>Local chapter advisors registered and in good standing with Business Professions of America are eligible for this award.</p>
+		<h2>Student of the Year Award</h2>
+		<p>The Student of the Year Award recognizes students who have made significant contributions to Business Professionals of America as a student member.</p>
+		<p>Registered student members not including current or former National Officers are eligible for this award.</p>
 		<br>
 		<hr>
 		<h3>Requirements</h3>
-		<p>The nominator must submit the following information about the nominee to be eligible for the award.</p>
 		<ul>
-			<li>Nomination Form</li>
-			<li>Narrative review of nominee’s supportive contributions to BPA</li>
-			<li>Three letters of support for the nominee</li>
-			<ul>
-				<li>One letter must be from an administrator</li>
-				<li>One letter must be from a current student</li>
-			</ul>
-			<li>Resume for the nominee</li>
+			<li>Completed a minimum of one full year as a student member</li>
+			<li>Served as a local, regional or state officer</li>
+			<li>Attended a minimum of one (1) State Leadership Conference and one (1) National
+Leadership Conference (Required for Secondary)</li>
+			<li>Competed in the WSAP</li>
+			<li>Earned the Ambassador Torch Award</li>
+			<li>Participated in the BPA Cares Program</li>
 		</ul>
 		<br>
 		<hr>
