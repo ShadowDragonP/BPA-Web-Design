@@ -21,7 +21,7 @@
 		</h4>
 		<h2>BPA Marketing and Public Relations Award</h2>
 		<p>The BPA Marketing and Public Relations Award was created to promote the image of Business Professionals of America and its members, to inform the public of the meaning and objectives of BPA, to encourage the creation of media promotions, especially chapter newsletters and Websites promoting BPA; and to encourage organized local chapter membership recruiting efforts/activities.</p>
-		<p> This award is open to members in the Middle Level, Post-Secondary and Secondary Divisions who have completed at minimum one activity which does at least one of the following:</p>
+		<p>This award is open to members in the Middle Level, Post-Secondary and Secondary Divisions who have completed at minimum one activity which does at least one of the following:</p>
 		<ul>
 			<li>Promotes the image of Business Professionals of America and its members</li>
 			<li>Informs the public of the meaning and objectives of BPA</li>
@@ -51,7 +51,6 @@
 		<br>
 		<hr>
 		<h3>Applications</h3>
-		<p>The Professional Awards Awards Program acknowledges the dedication and server of those who helped support BPA.<br>The awards offered for this category includes:</p>
 		<ul>
 			<li>Applications are due April 1 and must be submitted using the online application. Applications cannot be turned in via e-mail or mail.</li>
 		</ul>

@@ -4,7 +4,7 @@
 	<?php $root = 'C:/xampp/htdocs/BPA-Web-Design-2018/';?>
 	<?php include($root . "/includes/generic-references.html");?>
 	
-	<title>Home | BPA Cares Awards</title>
+	<title>Home | Chapter Activities Award of Excellence</title>
 </head>
 
 <body>
@@ -13,46 +13,49 @@
 	<br>
 	<br>
 	<br>
-	<hr class="red">
+	<hr class="red"/>
 	<div class="content">
-		<h2>BPA Cares Awards</h2>
-		<p>Business Professionals of America encourages chapters to participate in the BPA Cares Program by presenting the opportunity for members to receive recognition for their services. BPA Cares Awards are offered to both individuals and chapters for meeting requirements of various services in the BPA Cares Program. Awards are categorized into the following categories listed below.</p>
-		<p>Click the dropdown menus on the navigation bar or click the name of each award below to see more information about that award.</p>
-		<br>
-		<hr>
-		<h3>Service Learning Awards Program</h3>
-		<p>The Service Learning Awards Program encourages individuals and chapters to become involved in their community through service learning.<br>The awards offered for this category includes:</p>
+		<h4 style="color:#770000">
+			<em>from</em>
+			SPECIAL Recognition
+		</h4>
+		<h2>Chapter Activities Award of Excellence</h2>
+		<p>The Chapter Activities Award of Excellence was created to recognize local chapters for their outstanding activities and program of work and to motivate all local chapters to strive for an outstanding program of activities.</p>
+		<p>All applicants must be in good standing with Business Professionals of America. This award is open to members in the Middle Level, Post-Secondary and Secondary Divisions.</p>
 		<ul>
-			<li>Community Service Award</li>
-			<li>Environmental Action/Awareness Award</li>
-			<li>Safety Awareness Award</li>
-			<li>Service Learning Individual Award</li>
-			<li>Special Olympics Award</li>
+			<li>Promotes the image of Business Professionals of America and its members</li>
+			<li>Informs the public of the meaning and objectives of BPA</li>
+			<li>Encourages the creation of media promotions, especially chapter newsletters and Websites promoting BPA</li>
+			<li>Encourages organized local chapter membership recruiting efforts/activities</li>
 		</ul>
 		<br>
 		<hr>
-		<h3>Special Recognition Awards Program</h3>
-		<p>The Special Recognition Awards Program encourages individuals and chapters to support and promote their organizations.<br>The awards offered for this category includes:</p>
+		<h3>Activities</h3>
+		<p>Activities may include but are not limited to:</p>
 		<ul>
-			<li>BPA Marketing and Public Relations Award</li>
-			<li>BPA Merit Scholar Award</li>
-			<li>Chapter Activities Award of Excellence</li>
-			<li>Recruiter of the Year Award</li>
-			<li>Membership Explosion Award</li>
-			<li>Social Media Award</li>
-			<li>The Professional Cup Award</li>
+			<li>Any activity that promotes BPA in the school or community</li>
+			<li>Any activity that builds good public relations and is reported in the media (document media release)</li>
+			<li>Any chapter newsletter that is distributed to school or community members (outside the chapter membership, include document distribution) </li>
+			<li>Any chapter Website promoting the chapter and /or BPA members (document Website)</li>
+			<li>Any organized chapter membership recruiting activity</li>
 		</ul>
 		<br>
 		<hr>
-		<h3>Professional Awards</h3>
-		<p>The Professional Awards Awards Program acknowledges the dedication and server of those who helped support BPA.<br>The awards offered for this category includes:</p>
+		<h3>Requirements</h3>
 		<ul>
-			<li>Advisor of the Year Award</li>
-			<li>Emerging Advisor of the Year Award</li>
-			<li>Emerging Professional of the Year Award</li>
-			<li>Hall of Fame Award</li>
-			<li>Outstanding Service Award</li>
-			<li>Student of the Year Award</li>
+			<li>Activities completed between April 2, 2017 and April 1, 2018 (11:59 PM EST) can be counted towards this award. </li>
+			<li>Chapters may complete more than one activity to equal the total number of hours/dollars.</li>
+			<li>All activity descriptions must include title, project details, date project completed, location of the project and description of the project.</li>
+			<li>Activity descriptions cannot exceed 500 words in total.</li>
+		</ul>
+		<br>
+		<hr>
+		<h3>Applications</h3>
+		<ul>
+			<li>All applications must be submitted utilizing the online application</li>
+			<li>Submission applications must include all activity descriptions</li>
+			<li>Partial applications will not be accepted or combined</li>
+			<li>Do not begin the application online submission form until you have completed all activities</li>
 		</ul>
 	</div>
 	<?php include($root . "/includes/footer.html");?>
