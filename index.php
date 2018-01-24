@@ -22,7 +22,6 @@
 			</li>
 			<li><a>Special Recognition <i class="fa fa-caret-down"></i></a></a>
 				<ul>
-					<li><a href="pages/bpa-marketing-and-public.php">BPA Marketing and Public</a></li>
 					<li><a href="pages/bpa-marketing-and-public-relations-award.php">BPA Marketing and Public Relations Award</a></li>
 					<li><a href="pages/bpa-merit-scholar-award.php">BPA Merit Scholar Award</a></li>
 					<li><a href="pages/chapter-activities-award-of-excellence.php">Chapter Activities Award of Excellence</a></li>

@@ -41,18 +41,13 @@
 		</ul>
 		<br>
 		<hr>
-		<h3>Requirements</h3>
-		<ul>
-			<li>Activities completed between April 2, 2017 and April 1, 2018 (11:59 PM EST) can be counted towards this award. </li>
-			<li>Chapters may complete more than one activity to equal the total number of hours/dollars.</li>
-			<li>All activity descriptions must include title, project details, date project completed, location of the project and description of the project.</li>
-			<li>Activity descriptions cannot exceed 500 words in total.</li>
-		</ul>
-		<br>
-		<hr>
 		<h3>Applications</h3>
 		<ul>
-			<li>Applications are due April 1 and must be submitted using the online application. Applications cannot be turned in via e-mail or mail.</li>
+			<li>Applications are due April 1 and must be submitted using the online application. No email or mail applications will be accepted</li>
+			<li>All applications must be submitted utilizing the online application</li>
+			<li>Submission applications must include all activity descriptions</li>
+			<li>Partial applications will not be accepted or combined</li>
+			<li>Do not begin the application online submission form until you have completed all activities</li>
 		</ul>
 	</div>
 	<?php include($root . "/includes/footer.html");?>

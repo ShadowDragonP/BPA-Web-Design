@@ -20,14 +20,8 @@
 			SPECIAL Recognition
 		</h4>
 		<h2>Recruiter of the Year Award</h2>
-		<p>The Recruiter of the Year Award was created to promote the image of Business Professionals of America and its members, to inform the public of the meaning and objectives of BPA, to encourage the creation of media promotions, especially chapter newsletters and Websites promoting BPA; and to encourage organized local chapter membership recruiting efforts/activities.</p>
-		<p>This award is open to members in the Middle Level, Post-Secondary and Secondary Divisions who have completed at minimum one activity which does at least one of the following:</p>
-		<ul>
-			<li>Promotes the image of Business Professionals of America and its members</li>
-			<li>Informs the public of the meaning and objectives of BPA</li>
-			<li>Encourages the creation of media promotions, especially chapter newsletters and Websites promoting BPA</li>
-			<li>Encourages organized local chapter membership recruiting efforts/activities</li>
-		</ul>
+		<p>The Recruiter of the Year Award was created to encourage current student members of the Secondary, Post-Secondary, and Middle Level Divisions to recruit new BPA members and chapters.</p>
+		<p>All applicants must be in good standing with Business Professionals of America. This award is open to members in the Middle Level, Post- Secondary and Secondary Divisions.</p>
 		<br>
 		<hr>
 		<h3>Activities</h3>
@@ -43,16 +37,25 @@
 		<hr>
 		<h3>Requirements</h3>
 		<ul>
-			<li>Activities completed between April 2, 2017 and April 1, 2018 (11:59 PM EST) can be counted towards this award. </li>
-			<li>Chapters may complete more than one activity to equal the total number of hours/dollars.</li>
-			<li>All activity descriptions must include title, project details, date project completed, location of the project and description of the project.</li>
-			<li>Activity descriptions cannot exceed 500 words in total.</li>
+			<li>Activities completed between August 31, 2017 and February 15, 2018 (11:59 PM EST) can be counted toward this award</li>
+		</ul>
+		<br>
+		<hr>
+		<h3>Recognition</h3>
+		<ul>
+			<li>Approved applicants will receive a Certificate of Achievement</li>
+			<li>Each year the applicant with the most amount of recruiter points received, based on the above criteria, in their division will be recognized with a plaque as National Recruiter of the Year at a General Session during the NLC</li>
 		</ul>
 		<br>
 		<hr>
 		<h3>Applications</h3>
 		<ul>
-			<li>Applications are due April 1 and must be submitted using the online application. Applications cannot be turned in via e-mail or mail.</li>
+			<li>Applications are due April 1 and must be submitted using the online application. Applications cannot be turned in via e-mail or mail</li>
+			<li>All applications must be submitted utilizing the online application</li>
+			<li>All applications must be submitted utilizing the online application</li>
+			<li>Submission applications must include all activity descriptions</li>
+			<li>Partial applications will not be accepted or combined</li>
+			<li>Do not begin the application online submission form until you have completed all activities</li>
 		</ul>
 	</div>
 	<?php include($root . "/includes/footer.html");?>

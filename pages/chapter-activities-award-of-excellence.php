@@ -22,12 +22,6 @@
 		<h2>Chapter Activities Award of Excellence</h2>
 		<p>The Chapter Activities Award of Excellence was created to recognize local chapters for their outstanding activities and program of work and to motivate all local chapters to strive for an outstanding program of activities.</p>
 		<p>All applicants must be in good standing with Business Professionals of America. This award is open to members in the Middle Level, Post-Secondary and Secondary Divisions.</p>
-		<ul>
-			<li>Promotes the image of Business Professionals of America and its members</li>
-			<li>Informs the public of the meaning and objectives of BPA</li>
-			<li>Encourages the creation of media promotions, especially chapter newsletters and Websites promoting BPA</li>
-			<li>Encourages organized local chapter membership recruiting efforts/activities</li>
-		</ul>
 		<br>
 		<hr>
 		<h3>Activities</h3>
@@ -49,6 +43,12 @@
 			<li>Activity descriptions cannot exceed 500 words in total.</li>
 		</ul>
 		<br>
+		<hr/>
+		<h3>Recognition</h3>
+		<ul>
+			<li>A plaque will be presented to each qualifying chapter on stage at the National Leadership Conference</li>
+		</ul>
+		<br/>
 		<hr>
 		<h3>Applications</h3>
 		<ul>
